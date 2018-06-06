@@ -1,3 +1,9 @@
+<html>
+<head>
+My first website
+</head>
+
+<body>
 We began the trip on May 17, 2018.
 
 Day 1 was <a href="Summer/Arizona.html">Arizona</a>.
@@ -9,3 +15,5 @@ Next was Momtgomery and Tuskegee.
 Atlanta = family time and civil rights history.
 Virginia was a nice break on a long drive to Washington, DC.
 Maryland = family time and civil war history. 
+</body>
+</html>
