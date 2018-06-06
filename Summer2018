@@ -1,10 +1,11 @@
 <html>
 <head>
-We began the trip on May 17, 2018.
+<title>We began the trip on May 17, 2018.
+</title>
 </head>
 
 <body>
-<p>
+<section>
 
 Day 1 was <a href="https://rmv0.github.io/Summer/Arizona.html">Arizona</a>.
 Then on to New Mexico.
@@ -15,6 +16,6 @@ Next was Momtgomery and Tuskegee.
 Atlanta = family time and civil rights history.
 Virginia was a nice break on a long drive to Washington, DC.
 Maryland = family time and civil war history. 
-</p>
+</section>
 </body>
 </html>
